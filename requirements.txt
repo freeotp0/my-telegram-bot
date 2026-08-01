@@ -1,0 +1,6 @@
+requests
+firebase-admin
+urllib3
+beautifulsoup4
+pyotp
+python-dotenv
